@@ -1,4 +1,4 @@
-<center>CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior
+#<center>CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior
 
 ### <center>CVPR 2023
 

@@ -2,7 +2,7 @@
 
 ### <center>CVPR 2023</center>  
 
-<center>[Jinbo Xing](https://doubiiu.github.io)<sup>1</sup>, Menghan Xia<sup>2</sup>, Yuechen Zhang<sup>1</sup>, Xiaodong Cun<sup>2</sup>, Jue Wang<sup>2</sup>, Tien-Tsin Wong<sup>1</sup> </center>
+<center>![Jinbo Xing](https://doubiiu.github.io)<sup>1</sup>, Menghan Xia<sup>2</sup>, Yuechen Zhang<sup>1</sup>, Xiaodong Cun<sup>2</sup>, Jue Wang<sup>2</sup>, Tien-Tsin Wong<sup>1</sup> </center>
 <center><sup>1</sup>The Chinese University of Hong Kong, <sup>2</sup>Tencent AI Lab </center>
  
   

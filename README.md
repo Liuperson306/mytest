@@ -1,26 +1,32 @@
-# <center>CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior
+<font size=10><center>CodeTalker: Speech-Driven 3D Facial Animation with Discrete Motion Prior</center></font>
 
-### <center>CVPR 2023
+### <center>CVPR 2023</center>  
 
-## 二级标题
+[<center>Jinbo Xing](https://doubiiu.github.io)<sup>1</sup>, Menghan Xia<sup>2</sup>, Yuechen Zhang<sup>1</sup>, Xiaodong Cun<sup>2</sup>, Jue Wang<sup>2</sup>, Tien-Tsin Wong<sup>1</sup>  
+<sup>1</sup>The Chinese University of Hong Kong, <sup>2</sup>Tencent AI Lab 
+ 
+<i class="fa-solid fa-link"></i> arXiv
+<i class="fa-solid fa-video"></i> Video   
+  
+## Abstract</center>
+<font size=2>Speech-driven 3D facial animation has been widely studied, yet there is still a gap to achieving realism and vividness due to the highly ill-posed nature and scarcity of audio-visual data. </font>
 
-### 三级标题
 
-#### 四级标题
 
-##### 五级标题
+## Method
+### Discrete Motion Prior Learning
+<font size=2>CodeTalker first learns a discrete context-rich facial motion codebook by self-reconstruction learning over real facial motions.</font>   
 
-###### 六级标题
-*斜体文字*
+![](codebook.png)
 
-_斜体文字_
 
-**粗体文字**
 
-__粗体文字__
 
-***粗斜体文字***
+<head> 
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
+</head> 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
 
-___粗斜体文字___
 
-<!--<center><iframe height=450 width=450 src="May1.mp4">-->
+

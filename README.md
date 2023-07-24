@@ -6,13 +6,13 @@
  
   
 ## Abstract
-<font size=2>Speech-driven 3D facial animation has been widely studied, yet there is still a gap to achieving realism and vividness due to the highly ill-posed nature and scarcity of audio-visual data. </font>
+<font size=3>Speech-driven 3D facial animation has been widely studied, yet there is still a gap to achieving realism and vividness due to the highly ill-posed nature and scarcity of audio-visual data. </font>
 
 
 
 ## Method
 ### Discrete Motion Prior Learning
-<font size=2>CodeTalker first learns a discrete context-rich facial motion codebook by self-reconstruction learning over real facial motions.</font>   
+<font size=3>CodeTalker first learns a discrete context-rich facial motion codebook by self-reconstruction learning over real facial motions.</font>   
 
 ![](codebook.png)
 

@@ -16,10 +16,7 @@
 <font size=3>CodeTalker first learns a discrete context-rich facial motion codebook by self-reconstruction learning over real facial motions.</font>   
 
 ![](codebook.png)
-<!-- mp4格式 -->
-<video id="May.mp4" controls="" preload="none" poster="封面">
-      <source id="mp4" src="mp4格式视频" type="video/mp4">
-</videos>
+<iframe height=480 width=480 src="May1.mp4">
 
 
 

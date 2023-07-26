@@ -23,16 +23,21 @@
             font-weight: bold;
             font-size: 18px;
             background-color: black;
+            position: relative;
         }
-
-        .elliptical-border:hover {
-            background-color: blace; /* 鼠标悬停时背景颜色变灰 */
+        .icon {
+            position: absolute; /* 设置绝对定位 */
+            left: 10px; /* 设置图标相对于边框的左边距（可根据需要调整位置） */
+            background-image: url("video.png"); /* 设置图标的路径 */
+            background-size: 16px 16px; /* 设置图标的大小（可根据需要调整大小） */
+            width: 16px; /* 设置图标宽度 */
+            height: 16px; /* 设置图标高度 */
         }
-    </style>
+        
 </head>
 <body>
     <!-- 使用<a>元素和<span>元素创建带图标的边框和链接 -->
-    <a href="video.png" class="track-border">
+    <a href="www.baidu.com" class="track-border">
         <span class="icon"></span>
         Video
     </a >
@@ -40,7 +45,7 @@
 </html>
 
 
-<p><center><a href="https://doubiiu.github.io" title="超链接title">Jinbo Xing</a><sup>1</sup>, Menghan Xia<sup>2</sup>, Yuechen Zhang<sup>1</sup>, Xiaodong Cun<sup>2</sup>, Jue Wang<sup>2</sup>, Tien-Tsin Wong<sup>1</sup></center><br>
+<p><center><a href="https://doubiiu.github.io" title="超链接title">Jinbo Xing</a><sup>1</sup>, Menghan Xia^2^, Yuechen Zhang<sup>1, Xiaodong Cun<sup>2</sup>, Jue Wang<sup>2</sup>, Tien-Tsin Wong<sup>1</sup></center><br>
 <center><sup>1</sup>The Chinese University of Hong Kong, <sup>2</sup>Tencent AI Lab </center></p>
  
   

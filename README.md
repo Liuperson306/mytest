@@ -45,7 +45,7 @@
 </html>
 
 
-<p><center><a href="https://doubiiu.github.io" title="超链接title">Jinbo Xing</a><sup>1</sup>, Menghan Xia^2^, Yuechen Zhang<sup>1, Xiaodong Cun<sup>2</sup>, Jue Wang<sup>2</sup>, Tien-Tsin Wong<sup>1</sup></center><br>
+<p><center><a href="https://doubiiu.github.io" title="超链接title">Jinbo Xing</a><sup>1</sup>, Menghan Xia<sup>2</sup>, Yuechen Zhang<sup>1</sup>, Xiaodong Cun<sup>2</sup>, Jue Wang<sup>2</sup>, Tien-Tsin Wong<sup>1</sup></center><br>
 <center><sup>1</sup>The Chinese University of Hong Kong, <sup>2</sup>Tencent AI Lab </center></p>
  
   

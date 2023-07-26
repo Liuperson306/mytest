@@ -17,11 +17,10 @@
 
 
 ![](codebook.png)     
-<center><iframe height=480 width=480 src="May1.mp4"></iframe></center>
 
-<video width="480" height="480" controls>
+<center><video width="480" height="480" controls>
     <source src="May1.mp4" type="video/mp4">
-</video>
+</video></center>
 
 
 

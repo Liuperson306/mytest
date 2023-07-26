@@ -2,34 +2,38 @@
 
 ### <center>CVPR 2023</center>  
 
-<!DOCTYPE html>
 <html>
 <head>
     <title>Elliptical Border Example</title>
     <style>
         /* CSS样式定义 */
         .elliptical-border {
-            width: 200px; /* 设置元素宽度 */
-            height: 100px; /* 设置元素高度 */
-            border: 2px solid black; /* 设置边框样式，2像素宽，黑色 */
-            border-radius: 50%; /* 设置圆角半径为50%，实现椭圆形效果 */
+            width: 100px; /* 设置元素宽度 */
+            height: 30px; /* 设置元素高度 */
+            border-top: 2px solid black; /* 设置上边框样式，2像素宽，黑色 */
+            border-bottom: 2px solid black; /* 设置下边框样式，2像素宽，黑色 */
+            border-left: 20px solid black; /* 设置左边框样式，20像素宽，黑色（可根据需要调整宽度） */
+            border-right: 20px solid black; /* 设置右边框样式，20像素宽，黑色（可根据需要调整宽度） */
+            border-radius: 50px; /* 设置圆角半径，实现半圆形效果（可根据需要调整半径大小） */
             display: flex;
             align-items: center;
             justify-content: center;
             text-decoration: none;
-            color: black;
+            color: white;
             font-weight: bold;
             font-size: 18px;
+            background-color: black;
         }
 
         .elliptical-border:hover {
-            background-color: lightgray; /* 鼠标悬停时背景颜色变灰 */
+            background-color: blace; /* 鼠标悬停时背景颜色变灰 */
         }
     </style>
 </head>
 <body>
-    <!-- 使用<a>元素创建椭圆形边框和链接 -->
-    <a href=" " class="elliptical-border">
+    <!-- 使用<a>元素和<span>元素创建带图标的边框和链接 -->
+    <a href="video.png" class="track-border">
+        <span class="icon"></span>
         Video
     </a >
 </body>

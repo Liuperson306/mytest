@@ -15,42 +15,20 @@
 ### Discrete Motion Prior Learning
 <font size=3>CodeTalker first learns a discrete context-rich facial motion codebook by self-reconstruction learning over real facial motions.</font>   
 
+[![NPM version](https://badge.fury.io/js/swagger-ui.svg)](http://badge.fury.io/js/swagger-ui)
+[![Build Status](https://jenkins.swagger.io/view/OSS%20-%20JavaScript/job/oss-swagger-ui-master/badge/icon?subject=jenkins%20build)](https://jenkins.swagger.io/view/OSS%20-%20JavaScript/job/oss-swagger-ui-master/)
+[![npm audit](https://jenkins.swagger.io/buildStatus/icon?job=oss-swagger-ui-security-audit&subject=npm%20audit)](https://jenkins.swagger.io/job/oss-swagger-ui-security-audit/lastBuild/console)
+![total GitHub contributors](https://img.shields.io/github/contributors-anon/swagger-api/swagger-ui.svg)
+
+
+
+
+
+
+
 ![](codebook.png)     
 <center><iframe height=480 width=480 src="May1.mp4"></iframe></center>
 
-<html>
-<head>
-    <title>Elliptical Border Example</title>
-    <style>
-        /* CSS样式定义 */
-        .elliptical-border {
-            width: 30px; /* 设置元素宽度 */
-            height: 20px; /* 设置元素高度 */
-            border-top: 2px solid black; /* 设置上边框样式，2像素宽，黑色 */
-            border-bottom: 2px solid black; /* 设置下边框样式，2像素宽，黑色 */
-            border-left: 20px solid black; /* 设置左边框样式，20像素宽，黑色（可根据需要调整宽度） */
-            border-right: 20px solid black; /* 设置右边框样式，20像素宽，黑色（可根据需要调整宽度） */
-            border-radius: 50px; /* 设置圆角半径，实现半圆形效果（可根据需要调整半径大小） */
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            text-decoration: none;
-            color: white; /* 设置文字颜色为白色 */
-            font-weight: bold;
-            font-size: 18px;
-            background-color: black
-        }
-        .elliptical-border:hover {
-            background-color: black; 
-            }
-    </style>
-</head>
-<body>
-    <a href="www.baidu.com" class="elliptical-border">
-        Video
-    </a >
-</body>
-</html>
 
 
 
